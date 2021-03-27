@@ -1,6 +1,6 @@
 # Basic Backend x NodeJS
 
-Slide : [Download Here](/../../master/Basic%20-%20Backend%20x%20NodeJS%20-%20Fahrul%20Septiana.pptx)
+Slide : [Download Here](/../..//raw/master/Basic%20-%20Backend%20x%20NodeJS%20-%20Fahrul%20Septiana.pptx)
 
 Cara instalasi adalah sebagai berikut:
 * Clone repository ini ke file lokal teman-teman menggunakan command `git clone https://github.com/fazztrack/webinar-27032021.git`
