@@ -1,6 +1,6 @@
 # Basic Backend x NodeJS
 
-Slide : [Download Here](https://github.com/FazztrackOfficial/webinar-basicBackend/blob/main/Basic%20-%20Backend%20x%20NodeJS%20-%20Fahrul%20Septiana.pptx)
+Slide : [Download Here](https://github.com/FazztrackOfficial/webinar-basicBackend/blob/main/Basic%20-%20Backend%20x%20NodeJS%20-%20Fahrul%20Septiana.pptx?raw=true)
 
 Cara instalasi adalah sebagai berikut:
 
